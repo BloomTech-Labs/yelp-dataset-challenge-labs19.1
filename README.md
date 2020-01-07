@@ -2,7 +2,7 @@
 
 You can find the project at [our Notion document](https://www.notion.so/Yelp-Dataset-Challenge-Labs-19-2c58ae1e609d480d806adb45f3fadf15).
 
-## 5️⃣ Contributors
+## Contributors
 
 🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
 
