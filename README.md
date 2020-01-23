@@ -3,9 +3,6 @@
 You can find the project at [our Notion document](https://www.notion.so/Yelp-Dataset-Challenge-Labs-19-2c58ae1e609d480d806adb45f3fadf15).
 
 ## Contributors
-
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
-
 |                                       [Maxime Vacher-Materno](https://github.com/maximematerno)                                        |                                       [Navaneeth Visagan](https://github.com/nvisagan)                                        |                                       [Jason Murphy](https://github.com/biovir3)                                        |                                       [Student 4](https://github.com/)                                        |                                       [Student 5](https://github.com/)                                        |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 |                      [<img src="https://avatars3.githubusercontent.com/u/37785179?s=400&v=4" width = "200" />](https://github.com/maximematerno)                       |                      [<img src= "https://ca.slack-edge.com/T4JUEB3ME-ULXSN2E3Y-f0ccdecad793-512" width = "200" />](https://github.com/nvisagan)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UGTN60H8D-145a130154f9-512" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/biovir3)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |
@@ -37,47 +34,48 @@ Yelp is always looking for ways to improve the user having the best experience, 
 1️⃣ [Deployed Front End](🚫add link to deployed app here)
 
 ### Tech Stack
+Python Language - data analysis, modeling, machine learning, etc.
 
-🚫 List all of the languages, frameworks, services, etc used here.
+Spacy/TextBLOB - NLP such as topic analysis, sentiment analysis, word embedding, etc.
+
+Image Processing - Keras/PyTorch, etc.
+
+AWS - DB, EMR, SageMaker, S3, etc.
+
+Github - Version Control, documentation
+
+Google Drive/AWS S3 - History data storage, Project management
+
+OpenStack - Local cloud development (Specifically Zun, Nova, Cinder, Keystone, Freezer, Solum, and Horizon)
 
 ### 2️⃣ Predictions
 
-🚫 Describe your models here
+NLP Sentiment Modeling
 
 ### 2️⃣ Explanatory Variables
 
--   Explanatory Variable 1
--   Explanatory Variable 2
--   Explanatory Variable 3
--   Explanatory Variable 4
--   Explanatory Variable 5
+-  Polarity : float which lies in the range of [-1,1] where 1 means positive statement and -1 means a negative statement.
+-  Subjectivity: a float which lies in the range of [0,1] where closer to 1 refers to personal opinion, emotion or judgment
 
 ### Data Sources
-🚫  Add to or delete souce links as needed for your project
 
--   [Source 1] (🚫add link to python notebook here)
--   [Source 2] (🚫add link to python notebook here)
--   [Source 3] (🚫add link to python notebook here)
--   [Source 4] (🚫add link to python notebook here)
--   [Source 5] (🚫add link to python notebook here)
+- [Yelp Data] (https://www.yelp.com/dataset)
 
 ### Python Notebooks
 
-🚫  Add to or delete python notebook links as needed for your project
+[Intial Sentiment Analysis](https://github.com/Lambda-School-Labs/yelp-dataset-challenge-labs19.1/blob/master/SentimentAnalysis/SentimentVisuals.ipynb)
 
-[Python Notebook 1](🚫add link to python notebook here)
-
-[Python Notebook 2](🚫add link to python notebook here)
+[WordCount Cleaning](https://github.com/Lambda-School-Labs/yelp-dataset-challenge-labs19.1/blob/master/EDA%20for%20Sentiment%20Based%20on%20Word%20Count.ipynb)
 
 [Python Notebook 3](🚫add link to python notebook here)
 
 ### 3️⃣ How to connect to the web API
 
-🚫 List directions on how to connect to the API here
+🚫IN PROGRESS
 
 ### 3️⃣ How to connect to the data API
 
-🚫 List directions on how to connect to the API here
+🚫IN PROGRESS
 
 ## Contributing
 
