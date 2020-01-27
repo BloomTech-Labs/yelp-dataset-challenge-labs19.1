@@ -10,31 +10,14 @@ column1 = dbc.Col(
     [   
     
         (
-            html.Img(src='assets/josh.jpeg', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
+            html.Img(src='assets/ben.png', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
         ),
         dcc.Markdown(
             """
-            #### Josh Fowlkes        
-            #### Data Scientist 
+            #### Benjamin Lopez        
+            #### Team Leader 
             """,
         className='mb-4'),
-        # dcc.Markdown(
-        #     """  
-        #       #### Data Scientist - Yelp Feelers  
-        #     """,
-        # className='mb-4'),
-        # (
-        #     html.Img(src='assets/oscar.jpeg', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
-        # ),
-        
-        # dcc.Markdown(
-        #     """ 
-        #     #### Data Scientist - Yelp Feelers        
-        #     """,
-        # className='mb-4'),
-        # (
-        #     html.Img(src='assets/maxime.jpg', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
-        # ),
         
              
     ],
@@ -43,11 +26,11 @@ column1 = dbc.Col(
 column2 = dbc.Col(
     [   
        (
-            html.Img(src='assets/oscar.jpeg', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
+            html.Img(src='assets/jason.jpg', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
         ),
         dcc.Markdown(
             """ 
-            #### Oscar Calzada        
+            #### Jason Murphy        
             #### Data Scientist 
             """,
         className='mb-4'),
@@ -55,6 +38,20 @@ column2 = dbc.Col(
 )
 
 column3 = dbc.Col(
+    [  
+        (
+            html.Img(src='assets/navo.jpg', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
+        ),
+        dcc.Markdown(
+            """ 
+            #### Navaneeth Visagan       
+            #### Data Scientist 
+            """,
+        className='mb-4'),
+    ]
+) 
+
+column4 = dbc.Col(
     [  
         (
             html.Img(src='assets/maxime.jpg', style= {'width': '100%', 'display': 'inline-block'}, alt="Responsive image", className='mb-4')          
@@ -68,4 +65,4 @@ column3 = dbc.Col(
     ]
 )
 
-layout = dbc.Row([column1,column2,column3])
+layout = dbc.Row([column1,column2,column3,column4])

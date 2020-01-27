@@ -29,13 +29,13 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
         
-            ## Adjusted Ratings Apps
+            ## Yelp Challenge Adjusted Ratings App
 
-            This is the Data Science portion for an Application that uses Machine Learning to build a Yelp Adjusted Ratings App based on User's text review which is then put through a rigorous Sentiment Analysis.
+            This is an Application that uses Machine Learning to build a Yelp Challenge Adjusted Ratings App on User's text review which is then put through a rigorous Sentiment Analysis.
     
             """
         ),
-        dcc.Link(dbc.Button('Predict Yelp Adjusted Ratings', color='danger'), href='/predictions')
+        dcc.Link(dbc.Button('Predict Yelp Challenge Adjusted Ratings', color='info'), href='/predictions')
     ],
     md=4,
 )
@@ -45,7 +45,7 @@ column1 = dbc.Col(
 column2 = dbc.Col(
     [
         # dcc.Graph(figure=fig),
-     html.Img(src='assets/chef.jpeg', className='img-fluid')   
+     html.Img(src='assets/restaurantPlate.jpeg', className='img-fluid')   
     ]
 )
 
