@@ -1,63 +1,26 @@
-1️⃣ Yelp Dataset Challenge Labs-19
 
-You can find the project at our Notion document.
-
-Contributors
-
-Maxime Vacher-Materno	Navaneeth Visagan	Jason Murphy	Student 4	Student 5
-				
-				
- 	 	 	 	 
-MIT Typescript [Netlify Status](netlify link goes in these parenthesis) code style: prettier
-
-🚫 more info on using badges here
-
-Project Overview
-
-1️⃣ Trello Board
-
-1️⃣ Product Canvas
 
 Project Description
 
-Yelp Dataset Challenge Labs 19 creating the next big data-driven ML powered product for Yelp using their dataset. https://www.yelp.com/dataset
 
-Yelp is always looking for ways to improve the user having the best experience, and improved relevance of the top reviews shown is always a positive.
-
-1️⃣ [Deployed Front End](🚫add link to deployed app here)
-
-Tech Stack
 
 Python Language - data analysis, modeling, machine learning, etc.
 
-Spacy/TextBLOB - NLP such as topic analysis, sentiment analysis, word embedding, etc.
 
-Image Processing - Keras/PyTorch, etc.
 
 AWS - DB, EMR, SageMaker, S3, etc.
 
-Github - Version Control, documentation
+
 
 Google Drive/AWS S3 - History data storage, Project management
 
-OpenStack - Local cloud development (Specifically Zun, Nova, Cinder, Keystone, Freezer, Solum, and Horizon)
 
-2️⃣ Predictions
-
-NLP Sentiment Modeling
-
-2️⃣ Explanatory Variables
 
 Polarity : float which lies in the range of [-1,1] where 1 means positive statement and -1 means a negative statement.
 Subjectivity: a float which lies in the range of [0,1] where closer to 1 refers to personal opinion, emotion or judgment
 Data Sources
 
-[Yelp Data] (https://www.yelp.com/dataset)
-Python Notebooks
 
-Intial Sentiment Analysis
-
-WordCount Cleaning
 
 [Python Notebook 3](🚫add link to python notebook here)
 
