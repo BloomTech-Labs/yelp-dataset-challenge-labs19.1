@@ -3,16 +3,19 @@
 You can find the project at [our Notion document](https://www.notion.so/Yelp-Dataset-Challenge-Labs-19-2c58ae1e609d480d806adb45f3fadf15).
 
 ## Contributors
-|                                       [Maxime Vacher-Materno](https://github.com/maximematerno)                                        |                                       [Navaneeth Visagan](https://github.com/nvisagan)                                        |                                       [Jason Murphy](https://github.com/biovir3)                                                                                                                    |                                                                            
+|                                       [Maxime Vacher-Materno](https://github.com/maximematerno)                                        |                                       [Navaneeth Visagan](https://github.com/nvisagan)                                        |                                       [Jason Murphy](https://github.com/biovir3)                                        |                                                                              |                                                                              |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                      [<img src="https://avatars3.githubusercontent.com/u/37785179?s=400&v=4" width = "200" />](https://github.com/maximematerno)                       |                      [<img src= "https://ca.slack-edge.com/T4JUEB3ME-ULXSN2E3Y-f0ccdecad793-512" width = "200" />](https://github.com/nvisagan)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UGTN60H8D-145a130154f9-512" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/biovir3)                       |                      
+|                      [<img src="https://avatars3.githubusercontent.com/u/37785179?s=400&v=4" width = "200" />](https://github.com/maximematerno)                       |                      [<img src= "https://ca.slack-edge.com/T4JUEB3ME-ULXSN2E3Y-f0ccdecad793-512" width = "200" />](https://github.com/nvisagan)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UGTN60H8D-145a130154f9-512" width = "200" />](https://github.com/biovir3)                       |                                            |                     
+|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)            |                      |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+                    |                      
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-🚫 more info on using badges [here](https://github.com/badges/shields)
+
 
 ## Project Overview
 
@@ -28,7 +31,7 @@ Yelp Dataset Challenge Labs 19 creating the next big data-driven ML powered prod
 Yelp is always looking for ways to improve the user having the best experience, and improved relevance of the top reviews shown is always a positive.
 
 
-1️⃣ [Deployed Front End](🚫add link to deployed app here)
+1️⃣ [Flask App Front End](https://yelp-challenge-adjusted-rating.herokuapp.com/predictions)
 
 ### Tech Stack
 Python Language - data analysis, modeling, machine learning, etc.
@@ -47,7 +50,7 @@ OpenStack - Local cloud development (Specifically Zun, Nova, Cinder, Keystone, F
 
 ### 2️⃣ Predictions
 
-NLP Sentiment Modeling
+NLP Sentiment Modeling , paticularly we are looking if we can predict the number of stars based on our entry of text
 
 ### 2️⃣ Explanatory Variables
 
@@ -64,15 +67,15 @@ NLP Sentiment Modeling
 
 [WordCount Cleaning](https://github.com/Lambda-School-Labs/yelp-dataset-challenge-labs19.1/blob/master/EDA%20for%20Sentiment%20Based%20on%20Word%20Count.ipynb)
 
-[Python Notebook 3](🚫add link to python notebook here)
+[Yelp NLP Modeling](https://github.com/Lambda-School-Labs/yelp-dataset-challenge-labs19.1/blob/master/yelp-challenge-adjusted-rating-app/notebooks/yelp_sentiment.ipynb)
 
 ### 3️⃣ How to connect to the web API
 
-🚫IN PROGRESS
+
 
 ### 3️⃣ How to connect to the data API
 
-🚫IN PROGRESS
+The data API is deployed on heroku and not for personal use
 
 ## Contributing
 
